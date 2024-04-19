@@ -4,3 +4,4 @@
 
 - [x] bash/zsh scripting
 - [x] file system and filepath
+- [x] Files/Directories manipulation
