@@ -2,6 +2,8 @@
 
 # This script is used to print nice warning messages
 # branded in worldbanc style
+WARN_MESSAGE="The auditor is here"
+WARN_FROM_NAME="Your worst nightmare"
 
 echo "============================================"
 echo "=========== WORLDBANC WARNING =============="
