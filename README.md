@@ -14,7 +14,7 @@
 
 ## 2. JAVASCRIPT
 
-- [ ] Introduction
+- [x] Introduction
 - [ ] Variables
 - [ ] Comparisons
 - [ ] Functions
