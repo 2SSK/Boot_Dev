@@ -17,7 +17,7 @@
 - [x] Introduction
 - [x] Variables
 - [x] Comparisons
-- [ ] Functions
+- [x] Functions
 - [ ] Arrays
 - [ ] Loops
 - [ ] Objects
