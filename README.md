@@ -19,7 +19,7 @@
 - [x] Comparisons
 - [x] Functions
 - [x] Arrays
-- [ ] Loops
+- [x] Loops
 - [ ] Objects
 - [ ] Errors
 - [ ] Runtimes
