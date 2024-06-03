@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Define variables
 bankname="WorldBanc"
@@ -9,3 +10,7 @@ output="$bankname was founded in $founded by $ceo"
 
 # Print output message
 echo "$output"
+
+alias ec=echo
+
+echo "$bankname"
