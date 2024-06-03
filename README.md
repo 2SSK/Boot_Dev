@@ -18,7 +18,7 @@
 - [x] Variables
 - [x] Comparisons
 - [x] Functions
-- [ ] Arrays
+- [x] Arrays
 - [ ] Loops
 - [ ] Objects
 - [ ] Errors
