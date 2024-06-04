@@ -20,6 +20,6 @@
 - [x] Functions
 - [x] Arrays
 - [x] Loops
-- [ ] Objects
+- [x] Objects
 - [ ] Errors
 - [ ] Runtimes
