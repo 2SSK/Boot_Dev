@@ -23,3 +23,18 @@
 - [x] Objects
 - [x] Errors
 - [x] Runtimes
+
+---
+
+## 3. GIT
+
+- [x] Setup
+- [ ] Repositories
+- [ ] Internal
+- [ ] Config
+- [ ] Branching
+- [ ] Merge
+- [ ] Rebase
+- [ ] Reset
+- [ ] Remote
+- [ ] GitHub
