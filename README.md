@@ -29,7 +29,7 @@
 ## 3. GIT
 
 - [x] Setup
-- [ ] Repositories
+- [x] Repositories
 - [ ] Internal
 - [ ] Config
 - [ ] Branching
