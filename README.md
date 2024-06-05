@@ -21,5 +21,5 @@
 - [x] Arrays
 - [x] Loops
 - [x] Objects
-- [ ] Errors
+- [x] Errors
 - [ ] Runtimes
