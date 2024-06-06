@@ -30,7 +30,7 @@
 
 - [x] Setup
 - [x] Repositories
-- [ ] Internal
+- [x] Internal
 - [ ] Config
 - [ ] Branching
 - [ ] Merge
