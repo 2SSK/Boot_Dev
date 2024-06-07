@@ -31,7 +31,7 @@
 - [x] Setup
 - [x] Repositories
 - [x] Internal
-- [ ] Config
+- [x] Config
 - [ ] Branching
 - [ ] Merge
 - [ ] Rebase
