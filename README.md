@@ -32,7 +32,7 @@
 - [x] Repositories
 - [x] Internal
 - [x] Config
-- [ ] Branching
+- [x] Branching
 - [ ] Merge
 - [ ] Rebase
 - [ ] Reset
