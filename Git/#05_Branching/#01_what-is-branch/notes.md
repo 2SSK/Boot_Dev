@@ -8,7 +8,7 @@ For example, let's say you have a big web project and you want t oexperiment wit
 
 A branch is just a named pointer toa specific commit. When you create a branch, you are creating a new pointer to a specific commit. The commit that the branch pints to is called the tip of the branch.
 
-![branch image](.\branching.png)
+![branch image](./branching.png)
 
 Because a branch is just a pointer to a commt, they're lightweight and "cheap" resourcewise to create. When you create 10 branches, you're not creating 10 copies of your project on your hard drive.
 
