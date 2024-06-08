@@ -33,7 +33,7 @@
 - [x] Internal
 - [x] Config
 - [x] Branching
-- [ ] Merge
+- [x] Merge
 - [ ] Rebase
 - [ ] Reset
 - [ ] Remote
