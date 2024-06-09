@@ -37,4 +37,4 @@
 - [x] Rebase
 - [x] Reset
 - [x] Remote
-- [ ] GitHub
+- [x] GitHub

@@ -1,0 +1,9 @@
+# PULL
+
+Fetching is nice, but most of the time we want the _actual file changes_ from a remote repo, not just the metadata.
+
+### COMMAND SYNTAX
+
+    git pull [<remote>/<branch>]
+
+The bracketed remote and branch are optional. If you execute git pull without anything specified it will pull your current branch from the remote repo.
