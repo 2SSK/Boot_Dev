@@ -34,7 +34,7 @@
 - [x] Config
 - [x] Branching
 - [x] Merge
-- [ ] Rebase
+- [x] Rebase
 - [ ] Reset
 - [ ] Remote
 - [ ] GitHub
