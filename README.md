@@ -36,5 +36,5 @@
 - [x] Merge
 - [x] Rebase
 - [x] Reset
-- [ ] Remote
+- [x] Remote
 - [ ] GitHub
