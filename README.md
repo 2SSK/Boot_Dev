@@ -43,7 +43,7 @@
 
 ## 4. GO
 
-- [ ] Introduction
+- [x] Introduction
 - [ ] Variables
 - [ ] Functions
 - [ ] Structs
