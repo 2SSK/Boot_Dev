@@ -38,3 +38,23 @@
 - [x] Reset
 - [x] Remote
 - [x] GitHub
+
+---
+
+## 4. GO
+
+- [ ] Introduction
+- [ ] Variables
+- [ ] Functions
+- [ ] Structs
+- [ ] Interfaces
+- [ ] Errors
+- [ ] Loops
+- [ ] Slices
+- [ ] Maps
+- [ ] Advanced Functions
+- [ ] Pointers
+- [ ] Local Development
+- [ ] Channels
+- [ ] Mutexes
+- [ ] Generics
