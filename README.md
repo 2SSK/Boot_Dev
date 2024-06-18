@@ -44,7 +44,7 @@
 ## 4. GO
 
 - [x] Introduction
-- [ ] Variables
+- [x] Variables
 - [ ] Functions
 - [ ] Structs
 - [ ] Interfaces
