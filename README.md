@@ -46,7 +46,7 @@
 - [x] Introduction
 - [x] Variables
 - [x] Functions
-- [ ] Structs
+- [x] Structs
 - [ ] Interfaces
 - [ ] Errors
 - [ ] Loops
