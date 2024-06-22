@@ -47,7 +47,7 @@
 - [x] Variables
 - [x] Functions
 - [x] Structs
-- [ ] Interfaces
+- [x] Interfaces
 - [ ] Errors
 - [ ] Loops
 - [ ] Slices
