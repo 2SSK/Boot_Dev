@@ -49,7 +49,7 @@
 - [x] Structs
 - [x] Interfaces
 - [x] Errors
-- [ ] Loops
+- [x] Loops
 - [ ] Slices
 - [ ] Maps
 - [ ] Advanced Functions
