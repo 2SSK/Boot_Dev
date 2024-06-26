@@ -50,7 +50,7 @@
 - [x] Interfaces
 - [x] Errors
 - [x] Loops
-- [ ] Slices
+- [x] Slices
 - [ ] Maps
 - [ ] Advanced Functions
 - [ ] Pointers
