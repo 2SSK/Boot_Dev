@@ -51,7 +51,7 @@
 - [x] Errors
 - [x] Loops
 - [x] Slices
-- [ ] Maps
+- [x] Maps
 - [ ] Advanced Functions
 - [ ] Pointers
 - [ ] Local Development
