@@ -52,7 +52,7 @@
 - [x] Loops
 - [x] Slices
 - [x] Maps
-- [ ] Advanced Functions
+- [x] Advanced Functions
 - [ ] Pointers
 - [ ] Local Development
 - [ ] Channels
